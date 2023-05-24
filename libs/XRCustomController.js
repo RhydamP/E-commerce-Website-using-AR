@@ -1,9 +1,3 @@
-/**
- * @author Nell Waliczek / https://github.com/NellWaliczek
- * @author Brandon Jones / https://github.com/toji
- * @author NikLever / https://github.com/NikLever
- */
-
 import {
 	Mesh,
 	MeshBasicMaterial,
