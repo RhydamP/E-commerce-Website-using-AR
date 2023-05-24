@@ -1,9 +1,3 @@
-/**
- * @author mrdoob / http://mrdoob.com
- * @author Mugen87 / https://github.com/Mugen87
- * @author NikLever / http://niklever.com
- */
-
 class ARButton{
 
 	constructor( renderer, options ) {
